@@ -3,7 +3,7 @@ nodejs-hello-world
 A single file nodejs server
 --
 
-This simple package was created to simplify the verification of a nodejs install and port availability
+This package was created to simplify the verification of a nodejs install and port availability.
 
 ## Installation
 
